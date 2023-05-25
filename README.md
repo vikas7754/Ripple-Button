@@ -33,6 +33,10 @@
   </a>
 </div>
 
+## [Visit freecodez.com for more content](https://freecodez.com)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Thank You! ❤️❤️❤️

@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://res.cloudinary.com/freecodez/image/upload/v1685022826/other/bnrnd84z3vuorqmkrniq.webp"  />
+    <a href="https://freecodez.com">
+        <img style="border: 2px solid #ccc; border-radius: 50%; object-fit: cover;" height="150" src="https://res.cloudinary.com/freecodez/image/upload/v1685022826/other/bnrnd84z3vuorqmkrniq.webp"  />
+    </a>
 </div>
 
 ###

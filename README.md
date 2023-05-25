@@ -28,12 +28,10 @@
 <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/">
     <img src="https://res.cloudinary.com/freecodez/image/upload/v1685038469/other/qsafegwvp3zv9vaq5pjw.webp" height="100" alt="demo"  />
 </a>
-<!-- <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/" target="_blank">
+<a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/" target="_blank">
     <img src="https://res.cloudinary.com/freecodez/image/upload/v1685036247/other/plp0qwztdbyigzzuza4t.webp" height="100%" alt="demo"  />
-  </a> -->
+  </a>
 </div>
-
-[![Demo](https://res.cloudinary.com/freecodez/image/upload/v1685036247/other/plp0qwztdbyigzzuza4t.webp)](https://freecodez.com "target = '_blank'")
 
 ## License
 

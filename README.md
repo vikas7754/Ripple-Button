@@ -25,9 +25,13 @@
 <div align="center">
 <h2>View Demo</h2>
 <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/">
-<img src="https://res.cloudinary.com/freecodez/image/upload/v1685037227/other/cicrscicsmjqoqcqt0oj.webp" height="100" alt="demo"  />
+<img src="https://res.cloudinary.com/freecodez/image/upload/v1685038469/other/qsafegwvp3zv9vaq5pjw.webp" height="100" alt="demo"  />
 </a>
 <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/" target="_blank">
     <img src="https://res.cloudinary.com/freecodez/image/upload/v1685036247/other/plp0qwztdbyigzzuza4t.webp" height="100%" alt="demo"  />
   </a>
 </div>
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)

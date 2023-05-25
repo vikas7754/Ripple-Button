@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vikas7754/" target="_blank">
-    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685023533/other/kwklskvrcnf3bduetxrn.webp" height="25" alt="linkedin logo"  />
+    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685036738/other/wy8a30ybqh405gk7u7ep.webp" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@freecodez" target="_blank">
     <img src="https://res.cloudinary.com/freecodez/image/upload/v1685035757/other/tnk5mvmwgy8p6i4dhk6j.webp" height="25" alt="youtube logo"  />
@@ -23,10 +23,11 @@
 
 <h1>Ripple Button</h1>
 <div align="center">
+<h2>View Demo</h2>
 <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/">
-    <h2>View Demo</h2>
+<img src="https://res.cloudinary.com/freecodez/image/upload/v1685037227/other/cicrscicsmjqoqcqt0oj.webp" height="100" alt="demo"  />
 </a>
 <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/" target="_blank">
-    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685036247/other/plp0qwztdbyigzzuza4t.webp" height="100%" alt="instagram logo"  />
+    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685036247/other/plp0qwztdbyigzzuza4t.webp" height="100%" alt="demo"  />
   </a>
 </div>

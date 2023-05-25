@@ -1,17 +1,18 @@
 <div align="center">
-    <a href="https://freecodez.com">
+    <a href="https://freecodez.com" target="_blank">
         <img style="border: 2px solid #ccc; border-radius: 50%; object-fit: cover;" height="150" src="https://res.cloudinary.com/freecodez/image/upload/v1685022826/other/bnrnd84z3vuorqmkrniq.webp"  />
     </a>
 </div>
 
 ###
 
+<hr/>
 <div align="center">
   <a href="https://www.linkedin.com/in/vikas7754/" target="_blank">
-    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685023533/other/kwklskvrcnf3bduetxrn.webp" height="25" alt="linkedin logo"  />
+    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685035741/other/mdbbojivlz9tltkanhy7.webp" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@freecodez" target="_blank">
-    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685023555/other/p9vbanzpjmmful67gxi4.webp" height="25" alt="youtube logo"  />
+    <img src="https://res.cloudinary.com/freecodez/image/upload/v1685035757/other/tnk5mvmwgy8p6i4dhk6j.webp" height="25" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/divine_vikas/" target="_blank">
     <img src="https://res.cloudinary.com/freecodez/image/upload/v1685023043/other/orhbhgt7jhfpbckir4ag.webp" height="25" alt="instagram logo"  />

@@ -21,13 +21,10 @@
 
 ###
 
-#Ripple Button
-
-###
-
+<h1>Ripple Button</h1>
 <div align="center">
 <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/">
-    #View Demo
+    <h2>View Demo</h2>
 </a>
 <a href="https://freecodez.com/codecraft/admin/646e479418fc9e4681d98991/" target="_blank">
     <img src="https://res.cloudinary.com/freecodez/image/upload/v1685036247/other/plp0qwztdbyigzzuza4t.webp" height="100%" alt="instagram logo"  />
